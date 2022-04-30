@@ -183,7 +183,7 @@ function pagar() {
     } else {
         Swal.fire({
             icon: 'error',
-            text: 'No se pudo realizar el pago, intente nuevamente!',
+            text: 'No se pudo realizar el pago, intente nuevamente',
           })
         // alert("No se pudo realizar el pago, intente nuevamente");
     }
