@@ -1,6 +1,6 @@
 const loggedUser = () => {
     const user = localStorage.getItem(`user`);
-    if (user) window.location.href = "/index.html"
+    if (user) window.location.href = "./index.html"
 }
 
 loggedUser()
@@ -23,7 +23,7 @@ const login = () => {
             timer: 1200
         })
         setTimeout(() => {
-            window.location.href = "/index.html"
+            window.location.href = "./index.html"
         }, 1600);
     } else {
         Swal.fire({

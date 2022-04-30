@@ -203,7 +203,7 @@ const logout = () => {
       }).then((result) => {
         if (result.isConfirmed)  
         localStorage.clear();
-        window.location.href = "/login.html"; {
+        window.location.href = "./login.html"; {
         }
       })
 }
