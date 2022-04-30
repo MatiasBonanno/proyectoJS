@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: rgb(13, 50, 116);
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(25, 69, 146);
+    color: white;
+}
+
+.card {
+    display: inline-flex;
+}
+
+.boton {
+    margin: auto;
+    text-align: center;
+}
+
+
+.position {
+    display: flex;
+    border-radius: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-end;
+}
+
