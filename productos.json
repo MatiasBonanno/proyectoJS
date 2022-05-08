@@ -1,0 +1,39 @@
+
+[
+    {
+        "nombre": "iPhone 11",
+        "descripcion": "Un nuevo sistema de dos cámaras. Una batería para todo el día. El vidrio más resistente en un smartphone.",
+        "precio": 140000,
+        "id": 11
+    },
+    {
+        "nombre": "iPhone 12 mini",
+        "descripcion": "Tecnología 5G. Chip A14 Bionic, el más veloz en un smartphone. Pantalla OLED de borde a borde. Modo Noche en cada una de las cámaras.",
+        "precio": 145000,
+        "id": 111 
+    },
+    {
+        "nombre": "iPhone 12",
+        "descripcion": "Un chip prodigioso. Tecnología 5G. Sistema avanzado de cámara dual. Una pantalla OLED espectacular. Y dos tamaños: ideal y perfecto.",
+        "precio": 170000,
+        "id": 12
+    },
+    {
+        "nombre": "iPhone 13 mini",
+        "descripcion": "Una pantalla superbrillante en un diseño resistente. Un chip ultrarrápido. Y un gran salto en duración de batería que vas a notar todos los días.",
+        "precio": 170000,
+        "id": 121
+    },
+    {
+        "nombre": "iPhone 13",
+        "descripcion": "Nuestro sistema de dos cámaras más avanzado. Un chip superrápido que deja atrás a la competencia. Un gran salto en duración de batería que vas a notar todos los días",
+        "precio": 190000,
+        "id": 122 
+    },
+    {
+        "nombre": "iPhone 13 Pro Max",
+        "descripcion": "Una pantalla Super Retina XDR con ProMotion que ofrece una experiencia rápida y fluida. Un gran avance en el sistema de cámaras que te brinda posibilidades increíbles. Y una extraordinaria duración de la batería.",
+        "precio": 230000,
+        "id": 133
+    }
+]
